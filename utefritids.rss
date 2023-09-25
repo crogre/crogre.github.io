@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Utefritids</title>
+  <description>Utefritids ställen vecka 39</description>
+  <item>
+    <title>Måndag vecka 39</title>
+    <description>Hemliga stället</description>
+    <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Tisdag vecka 39</title>
+    <description>Tallhöjden</description>
+    <pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Onsdag vecka 39</title>
+    <description>Stockarna - ingen klubb 3</description>
+    <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Torsdag vecka 39</title>
+    <description>Graanen</description>
+    <pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fredag vecka 39</title>
+    <description>Skolskogen</description>
+    <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss> 
