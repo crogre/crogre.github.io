@@ -1,0 +1,7 @@
+highlighter: rouge
+plugins:
+  - jekyll-feed
+title: Crogre
+description: Minmax
+author: Greger Cronquist
+permalink: /:year/:month/:day/:title:output_ext
